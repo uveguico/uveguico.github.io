@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uveguico.github.io/PAn/sitemap_index.txt
+Sitemap: https://uveguico.github.io/Zoe/sitemap_index.txt
+Sitemap: https://uveguico.github.io/ivk/sitemap_index.txt
+Sitemap: https://uveguico.github.io/smT/sitemap_index.txt
